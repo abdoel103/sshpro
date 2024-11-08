@@ -168,11 +168,11 @@ clear
 wget -q https://raw.githubusercontent.com/galat41/bkn/main/baku/insshws.sh && chmod +x insshws.sh && ./insshws.sh
 clear
 echo -e "\e[33m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
-echo -e "$green          Install SSH UDP              $NC"
+echo -e "$green          Install SSH HYSTERIA             $NC"
 echo -e "\e[33m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
 sleep 2
 clear
-wget -q https://udp.scvps.biz.id/udp-custom.sh &&  chmod +x udp-custom.sh && ./udp-custom.sh
+wget https://github.com/khaledagn/AGN-UDP/raw/main/install_agnudp.sh ; chmod +x install_agnudp.sh; ./install_agnudp.sh
 clear
 wget -q https://raw.githubusercontent.com/galat41/bkn/main/warik/julak && chmod +x julak && ./julak
 clear
