@@ -165,7 +165,7 @@ echo -e "$green          Install SSHWS              $NC"
 echo -e "\e[33m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
 sleep 2
 clear
-wget -q https://raw.githubusercontent.com/galat41/bkn/main/baku/insshws.sh && chmod +x insshws.sh && ./insshws.sh
+wget -q https://raw.githubusercontent.com/abdoel103/sshpro/refs/heads/main/sshws && chmod +x sshws && ./sshws
 clear
 echo -e "\e[33m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
 echo -e "$green          Install SSH HYSTERIA             $NC"
